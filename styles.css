@@ -9,3 +9,10 @@ h1 {
 h5 {
   text-align: right;
 }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: flex-end;
+}
