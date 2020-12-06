@@ -1,5 +1,17 @@
-h1 {
-  color: aquamarine;
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+
+header {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+header > h1 {
+  background-color: #f8f9fa;
+  font-family: "Patrick Hand", Arial;
+  width: 12em;
+  border-radius: 5px;
+  text-align: center;
 }
 li {
   list-style: circle;
@@ -22,5 +34,5 @@ label {
 }
 
 body {
-  background-color: #ffffff;
+  background-image: url(https://res.cloudinary.com/dtjnguxnf/image/upload/v1607279965/Untitled_design_hfsp74.png);
 }
