@@ -35,4 +35,8 @@ label {
 
 body {
   background-image: url(https://res.cloudinary.com/dtjnguxnf/image/upload/v1607279965/Untitled_design_hfsp74.png);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-attachment: fixed;
+  background-color: #d8d0d5;
 }
